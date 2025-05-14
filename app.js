@@ -1,1 +1,1 @@
-aler("uh-oh!")
+cpnsole.log("Helloe World");
